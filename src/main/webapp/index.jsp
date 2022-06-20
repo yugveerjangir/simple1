@@ -5,6 +5,6 @@
 <h3>Second install ApacheTomcat </h3>
 <h4> First start / shutdown tomcat by using ./startup.sh /  ./shutdown.sh present file
      in bin folder</h4>
-<h5> Change username and password of tomcat by adding a scrpit</h5>
+<h5> Change username and password of tomcat by adding a scrpit yugveer jangir</h5>
 </body>
 </html>
